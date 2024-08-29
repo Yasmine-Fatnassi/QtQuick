@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/ExplorationQML/">
+    <file alias="Main.qml">C:/Users/HP/OneDrive/Documents/ExplorationQML/Main.qml</file>
+    <file alias="InteractiveRectangle.qml">C:/Users/HP/OneDrive/Documents/ExplorationQML/InteractiveRectangle.qml</file>
+    <file alias="SimpleCalculator.qml">C:/Users/HP/OneDrive/Documents/ExplorationQML/SimpleCalculator.qml</file>
+  </qresource>
+</RCC>
+

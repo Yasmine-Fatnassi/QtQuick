@@ -1,0 +1,7 @@
+module ExplorationQML
+typeinfo appExplorationQML.qmltypes
+prefer :/ExplorationQML/
+Main 1.0 Main.qml
+InteractiveRectangle 1.0 InteractiveRectangle.qml
+SimpleCalculator 1.0 SimpleCalculator.qml
+
